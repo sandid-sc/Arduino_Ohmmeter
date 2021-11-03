@@ -1,6 +1,6 @@
 # Arduino_Ohmmeter
 
-    Simple Arduino project for begginers.
+    Simple Arduino project for beginners.
     Measures input resistance and spits out readings into terminal every 500ms.
     Based on voltage division rule.
     Set serial monitor baudrate to 9600.
